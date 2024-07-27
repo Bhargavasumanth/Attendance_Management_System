@@ -5,7 +5,7 @@
 - The program runs in an infinite loop until the user chooses to exit.
 
 ## Execution
-- TIP To <b>Run</b> code, press <shortcut actionId="Run"/> orcclick the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+- TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 ## Features
 - Code to handle user input and perform operations based on the choice provided by the user.
